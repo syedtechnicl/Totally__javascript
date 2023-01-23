@@ -1,0 +1,30 @@
+*{ margin:0;
+ padding:0;
+ box-sizing:border-box;}
+
+
+#Childid{
+    padding:20px;
+    border:1px solid red;
+    width:200px;
+    background-color:red;
+}
+
+#parentid{
+    padding:40px;
+    border:1px solid gold;
+    width:400px;
+    margin-top:200px;
+    background-color:green;
+}
+
+
+
+
+
+
+
+
+
+
+
